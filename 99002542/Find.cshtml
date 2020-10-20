@@ -1,0 +1,36 @@
+﻿@model TrialMvc.Models.MyTable
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Find</title>
+</head>
+<body>
+    <h1>New Employee Registration</h1>
+    <hr />
+    <div>
+        @using (Html.BeginForm())
+        {
+            <p>
+                Enter the EmpID: @Html.EditorFor((m) => m.Id)
+            </p>
+            <p>
+                Enter the EmpName: @Html.EditorFor((m) => m.Name)
+            </p>
+            @*<p>
+                Enter the EmpAddress: @Html.EditorFor((m) => m.EmpAddress)
+            </p>
+            <p>
+                Enter the EmpSalary: @Html.EditorFor((m) => m.EmpSalary)
+            </p>*@
+            <button>Add Employee</button>
+        }
+    </div>
+</body>
+</html>

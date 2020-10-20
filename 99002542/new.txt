@@ -1,0 +1,67 @@
+Document template
+
+Testing
+Objectives of test plan
+Deliverables
+Verification and validation of the test plan
+Deriving test plan
+Types of testing 
+1.Manual
+2.Semi manual
+3.automatic
+
+Build test cases
+1. github
+2. Jenkins
+
+Set up the infrastructure
+Compilation
+5 stages
+1.preprocessor
+2.transaltor
+3.assembler
+4.linker
+5.loader
+
+Code quality check and testing are 2 stages after build test cases.
+Automated tools
+parsoft
+varaglid 
+tools to find bug -bugzilla in github
+Report results 
+
+
+Activity 5
+Tools for testing 
+2 parts -v model
+agile model
+
+identify tools and contribution of tools in V and agile method.
+
+Difference between error fault and failure
+Principles of testing
+Models of Software testing
+V model
+Iterative Model
+RAD
+
+Reinforcement of some concepts of stepin
+System testing
+1.Functional 
+2.Non Functional
+
+Testing design techniques.
+
+Activity 6
+
+Non functional activity -code review.
+code quality 
+code complilance part
+
+
+Submission -Tomorrow 12:00
+
+Guidelines on documentation
+
+
+

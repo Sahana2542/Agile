@@ -1,0 +1,13 @@
+C:\Users\CTEA\Documents\Agile\FirstNetCoreApp\bin\Debug\netcoreapp3.1\FirstNetCoreApp.exe
+C:\Users\CTEA\Documents\Agile\FirstNetCoreApp\bin\Debug\netcoreapp3.1\FirstNetCoreApp.deps.json
+C:\Users\CTEA\Documents\Agile\FirstNetCoreApp\bin\Debug\netcoreapp3.1\FirstNetCoreApp.runtimeconfig.json
+C:\Users\CTEA\Documents\Agile\FirstNetCoreApp\bin\Debug\netcoreapp3.1\FirstNetCoreApp.runtimeconfig.dev.json
+C:\Users\CTEA\Documents\Agile\FirstNetCoreApp\bin\Debug\netcoreapp3.1\FirstNetCoreApp.dll
+C:\Users\CTEA\Documents\Agile\FirstNetCoreApp\bin\Debug\netcoreapp3.1\FirstNetCoreApp.pdb
+C:\Users\CTEA\Documents\Agile\FirstNetCoreApp\obj\Debug\netcoreapp3.1\FirstNetCoreApp.csprojAssemblyReference.cache
+C:\Users\CTEA\Documents\Agile\FirstNetCoreApp\obj\Debug\netcoreapp3.1\FirstNetCoreApp.AssemblyInfoInputs.cache
+C:\Users\CTEA\Documents\Agile\FirstNetCoreApp\obj\Debug\netcoreapp3.1\FirstNetCoreApp.AssemblyInfo.cs
+C:\Users\CTEA\Documents\Agile\FirstNetCoreApp\obj\Debug\netcoreapp3.1\FirstNetCoreApp.csproj.CoreCompileInputs.cache
+C:\Users\CTEA\Documents\Agile\FirstNetCoreApp\obj\Debug\netcoreapp3.1\FirstNetCoreApp.dll
+C:\Users\CTEA\Documents\Agile\FirstNetCoreApp\obj\Debug\netcoreapp3.1\FirstNetCoreApp.pdb
+C:\Users\CTEA\Documents\Agile\FirstNetCoreApp\obj\Debug\netcoreapp3.1\FirstNetCoreApp.genruntimeconfig.cache
