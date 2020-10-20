@@ -2,7 +2,7 @@
 
 namespace FirstNetCoreApp
 {
-public delegate int MathOpDelegate(int M,int N);
+
     class Program
     {
         static void Main(string[] args)
